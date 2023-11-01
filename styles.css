@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1, h3{
+    text-align: center;
+    padding: 1em 0;
+}
+
+div{
+    margin-top: 2em;
+    font-size: 25px;
+    text-align: center;
+}
